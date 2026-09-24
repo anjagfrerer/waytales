@@ -3,9 +3,9 @@
 Welcome to the team project repository for the Cross-Platform Development course.
 
 ## Team Details
-* **Student 1**: [Full Name] ([GitHub Handle])
-* **Student 2**: [Full Name] ([GitHub Handle])
-* **App Name**: [Your App Concept Name]
+* **Student 1**: Anja Gfrerer (anjagfrerer)
+* **Student 2**: Rilind Mehmeti (r1l1nd)
+* **App Name**: waytales
 
 ---
 
